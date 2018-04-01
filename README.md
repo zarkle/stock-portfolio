@@ -24,3 +24,9 @@ Build an application that allows us to list and analyze data about stocks. The o
 01-01-2001 4:59pm - Added functionality to add and delete some things.
 -->
 03-30-2018 - Begin scaffolding HTML
+
+## Resources
+- http://gitignore.io
+- Google Fonts
+- github.com/necolas/normalize.css
+- https://coolors.co/ca7ca2-bf7ccc-767fcc-9682cc-72ca91
