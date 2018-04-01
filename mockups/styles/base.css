@@ -20,6 +20,10 @@ a {
     color: #72ca91;
 }
 
+h1, h2, h3, h4 {
+    font-weight: bold;
+}
+
 h1 {
     font-size: 40px;
     text-align: center;
